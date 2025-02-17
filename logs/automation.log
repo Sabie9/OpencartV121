@@ -1,0 +1,42 @@
+13:34:51.484 [main] INFO  testCases.TC001_AccountRegistrationTest - Initializing ChromeDriver...
+13:35:00.590 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest execution***
+13:35:00.776 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account'
+13:35:09.367 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register'
+13:35:22.381 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Execution Ends***
+13:36:47.492 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting BaseClass setup***
+13:36:47.499 [main] INFO  testCases.TC001_AccountRegistrationTest - OS: Windows
+13:36:47.499 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser: chrome
+13:36:47.499 [main] INFO  testCases.TC001_AccountRegistrationTest - Initializing ChromeDriver...
+13:36:56.183 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest execution***
+13:36:56.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account'
+13:37:06.197 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register'
+13:37:18.163 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Execution Ends***
+14:03:32.474 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+14:03:32.935 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting BaseClass setup***
+14:03:32.935 [main] INFO  testCases.TC001_AccountRegistrationTest - OS: Windows
+14:03:32.935 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser: chrome
+14:03:32.935 [main] INFO  testCases.TC001_AccountRegistrationTest - Initializing ChromeDriver...
+14:03:36.436 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest execution***
+14:03:43.771 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account'
+14:03:46.813 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register'
+14:03:58.935 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Execution Ends***
+14:04:00.446 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting BaseClass setup***
+14:04:00.446 [main] INFO  testCases.TC001_AccountRegistrationTest - OS: Windows
+14:04:00.446 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser: chrome
+14:04:00.446 [main] INFO  testCases.TC001_AccountRegistrationTest - Initializing ChromeDriver...
+14:04:11.103 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest execution***
+14:04:11.287 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account'
+14:04:14.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register'
+14:04:26.179 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Execution Ends***
+14:04:26.505 [main] INFO  testCases.TC002_LoginTest - ***Starting BaseClass setup***
+14:04:26.505 [main] INFO  testCases.TC002_LoginTest - OS: Windows
+14:04:26.505 [main] INFO  testCases.TC002_LoginTest - Browser: chrome
+14:04:26.505 [main] INFO  testCases.TC002_LoginTest - Initializing ChromeDriver...
+14:04:34.836 [main] INFO  testCases.TC002_LoginTest - ***Start of TC002_LoginTest execution***
+14:04:35.005 [main] INFO  testCases.TC002_LoginTest - Clicked on 'My Account'
+14:04:36.913 [main] INFO  testCases.TC002_LoginTest - Clicked on 'Login'
+14:04:36.913 [main] INFO  testCases.TC002_LoginTest - Reached Login Page
+14:04:37.099 [main] INFO  testCases.TC002_LoginTest - Entered email id
+14:04:37.211 [main] INFO  testCases.TC002_LoginTest - Entered password
+14:04:38.134 [main] INFO  testCases.TC002_LoginTest - Clicked on 'Login' button
+14:04:38.174 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Execution Ends***

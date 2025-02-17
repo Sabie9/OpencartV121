@@ -1,0 +1,64 @@
+02:17:30.097 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+02:17:30.804 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+02:17:30.816 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+02:17:30.907 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+02:17:31.601 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+02:17:31.601 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+02:17:31.705 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+02:17:31.813 [main] INFO  testCases.TC003_LoginDDT - Entered password
+02:17:32.556 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+02:17:37.588 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+02:17:37.600 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+02:17:37.684 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+02:17:38.394 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+02:17:38.394 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+02:17:38.510 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+02:17:38.615 [main] INFO  testCases.TC003_LoginDDT - Entered password
+02:17:39.420 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+02:17:44.494 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+03:31:29.231 [main] INFO  testCases.TC003_LoginDDT - ***Starting BaseClass setup***
+03:31:29.234 [main] INFO  testCases.TC003_LoginDDT - OS: Windows
+03:31:29.234 [main] INFO  testCases.TC003_LoginDDT - Browser: chrome
+03:31:29.234 [main] INFO  testCases.TC003_LoginDDT - Initializing ChromeDriver...
+03:31:41.202 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+03:31:41.385 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+03:31:43.240 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+03:31:43.241 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+03:31:43.432 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+03:31:43.629 [main] INFO  testCases.TC003_LoginDDT - Entered password
+03:31:44.388 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+03:31:45.427 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+03:31:45.461 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+03:31:45.587 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+03:31:46.286 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+03:31:46.286 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+03:31:46.425 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+03:31:46.528 [main] INFO  testCases.TC003_LoginDDT - Entered password
+03:31:47.276 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+03:31:48.254 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+03:31:48.285 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+03:31:48.371 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+03:31:49.055 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+03:31:49.055 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+03:31:49.205 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+03:31:49.291 [main] INFO  testCases.TC003_LoginDDT - Entered password
+03:31:50.144 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+03:31:50.931 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+03:31:50.945 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+03:31:51.075 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+03:31:51.819 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+03:31:51.819 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+03:31:51.970 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+03:31:52.078 [main] INFO  testCases.TC003_LoginDDT - Entered password
+03:31:52.777 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+03:31:57.848 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+03:31:57.854 [main] INFO  testCases.TC003_LoginDDT - ***Start of TC003_LoginDDT execution***
+03:31:57.974 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'My Account'
+03:31:58.922 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login'
+03:31:58.922 [main] INFO  testCases.TC003_LoginDDT - Reached Login Page
+03:31:59.076 [main] INFO  testCases.TC003_LoginDDT - Entered email id
+03:31:59.162 [main] INFO  testCases.TC003_LoginDDT - Entered password
+03:31:59.924 [main] INFO  testCases.TC003_LoginDDT - Clicked on 'Login' button
+03:32:04.990 [main] INFO  testCases.TC003_LoginDDT - ***TC003_LoginDDT Execution Ends***
+03:35:53.639 [main] INFO  testCases.TC003_LoginDDT - ***Starting BaseClass setup***
+03:35:53.641 [main] INFO  testCases.TC003_LoginDDT - OS: Windows
